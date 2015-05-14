@@ -39,6 +39,7 @@ div.col-md-12 div.black-box h2, {
 }
 
 div.schedule-item {
+	display: inline-block;
 	width: 100%;
 	height: auto;
 	background-color: black;
