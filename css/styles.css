@@ -25,12 +25,15 @@ div.black-box h2 {
 	margin: 0px;
 }
 
-div.black-box p, div.black-box h3 {
+div.black-box-body {
 	padding: 20px;
-	margin-bottom: 0px;
 }
 
-div.col-md-12 div.black-box h2 {
+div.black-box-body p {
+	margin: 0px;
+}
+
+div.col-md-12 div.black-box h2, {
 	float: left;
 	clear: left;
 }
