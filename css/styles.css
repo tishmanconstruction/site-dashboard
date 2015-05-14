@@ -12,13 +12,14 @@ center#theLogo {
 
 div.black-box {
 	margin: 0px 0px 30px 0px;
-	background:rgba(0,0,0,0.5);
+	background:rgba(0,0,0,0.75);
 	color: white;
 }
 
 div.black-box h2 {
 	color: white;
-	font-size: 12px;
+	font-size: 14px;
+	font-weight: bold;
 	padding: 4px;
 	text-transform: uppercase;
 	background-color: black;
