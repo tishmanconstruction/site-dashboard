@@ -8,6 +8,7 @@ center#theLogo {
 
 div.black-box {
 	background:rgba(0,0,0,0.5);
+	color: white;
 }
 
 div.black-box h2 {
@@ -20,7 +21,6 @@ div.black-box h2 {
 }
 
 div.black-box p {
-	color: white;
 	padding: 20px;
 	margin-bottom: 0px;
 }
