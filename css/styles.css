@@ -4,7 +4,6 @@ body {
 
 div.black-box {
 	background:rgba(0,0,0,0.5);
-	padding: 0px 20px 20px 20px;
 }
 
 div.black-box h2 {
@@ -13,4 +12,8 @@ div.black-box h2 {
 	padding: 4px;
 	text-transform: uppercase;
 	background-color: black;
+}
+
+div.black-box p {
+	padding: 20px;
 }
