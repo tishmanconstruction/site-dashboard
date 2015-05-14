@@ -2,6 +2,10 @@ body {
 	background-color: blue;
 }
 
+center#theLogo {
+	padding: 30px;
+}
+
 div.black-box {
 	background:rgba(0,0,0,0.5);
 }
@@ -19,4 +23,8 @@ div.black-box p {
 	color: white;
 	padding: 20px;
 	margin-bottom: 30px;
+}
+
+div.col-md-12 div.black-box h2 {
+	width: auto;
 }
