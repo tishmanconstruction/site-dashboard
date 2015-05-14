@@ -34,3 +34,13 @@ div.col-md-12 div.black-box h2 {
 	float: left;
 	clear: left;
 }
+
+div.schedule-item {
+	width: 100%;
+	height: auto;
+	background-color: black;
+}
+
+div.schedule-item.active {
+	border: 5px solid #ffff00;
+}
